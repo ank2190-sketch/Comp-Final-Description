@@ -1,15 +1,10 @@
 # Comp-Final-Description
 
-Assignment 9: Comp Final Description
-The goal is to compare the difference of two large Global Climate Models (GCMs); CMIP6 and CMIP5 and compare it the Regional Climate Model (RCM) CORDEX-Africa.
-
-Data is sourced from the IPCC WGI Interactive Atlas as NetCDF files.
-
 ## Scientific Question 
 How do the two generations of GCM (CMIP6 & CMIP5) compare to the RCM Cordex-Africa in representing annual max temperatures (TX) in near term (2021-2040), high emissions scenarios (SSP5-8.5), specifically over IPCC bounds for South-Eastern Africa (SE-AF)?
 
 ## Hypothesis
-GCMs CMIP6 and CMIP5 will have
+GCMs CMIP6 and CMIP5 will have coarser and warmer projected annual max temperatures (TX) bias over SE-Africa compared to RCM CORDEX-Africa. CMIP6 shows improvement over SMIP5 due to model advancee
 
 ## Dataset
 
